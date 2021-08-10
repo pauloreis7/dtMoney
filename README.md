@@ -1,2 +1,2 @@
-# dtMony
+# dtMoney
 Finance management application
